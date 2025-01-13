@@ -9,7 +9,6 @@ version = "1.0-SNAPSHOT"
 
 
 application {
-    // Define the main class for the application.
     mainClass = "dev.mshlz.MainKt"
 }
 
